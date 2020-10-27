@@ -23,4 +23,9 @@ public class AppTest
     	
     	 assertTrue( true );
     }
+    
+    @Test
+    public void test_02() {
+    	assertTrue( true );
+    }
 }
